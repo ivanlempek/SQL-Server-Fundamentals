@@ -9,7 +9,7 @@ Creating a database from scratch using SQL Server and Azure Data Studio
 - Esse arquivo contém o banco de dados populado que criei usando todos os fundamentos de SQL;
 
 -----------------------------------------------------------------------
-- Para criar esse banco e suas tabelas:]
+- Para criar esse banco e suas tabelas:
 
 
 CREATE DATABASE [sql-fundamentals]
